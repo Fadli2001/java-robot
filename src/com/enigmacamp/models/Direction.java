@@ -1,4 +1,4 @@
-package com.enigmacamp;
+package com.enigmacamp.models;
 
 public enum Direction {
     NORTH, EAST, SOUTH, WEST;
